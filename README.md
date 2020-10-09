@@ -80,6 +80,8 @@ This was really cool to see that you could make one part on another and use the 
 
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/casterfinal.png" width="400">
+
 ### Reflection
 
 Putting this together was pretty easy especially with the mate connectors. 
