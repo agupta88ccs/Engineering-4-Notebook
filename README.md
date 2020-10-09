@@ -4,10 +4,7 @@
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
-
-### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+The first assignment is to create the caster base. This is the piece everything will be attached to. 
 
 ### Image
 
@@ -15,14 +12,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+This was pretty simple to make. At first some of the different things in Onshape were hard to follow but I was able to catch on pretty quickly. 
 
 ---
 
@@ -31,11 +21,12 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-### Evidence
+The next piece was the mount that attaches to the base. 
 
 ### Image
 
 ### Reflection
+This piece was simple to make. I like how Onshape makes things very practical and save all our work. 
 
 ---
 
@@ -44,11 +35,12 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-### Evidence
+This is the piece that connects to the mount and holds the wheel. 
 
 ### Image
 
 ### Reflection
+Making this in Onshape was pretty easy. The mirror was very simple and it always knows what you want to do which is helpful. 
 
 ---
 
@@ -57,11 +49,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-### Evidence
+This was the tire that goes around the wheel. 
 
 ### Image
 
 ### Reflection
+
+The revolve was cool to figure out, pretty simple. 
 
 ---
 
@@ -69,12 +63,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Wheel
 
 ### Description
-
-### Evidence
-
+This piece went in the tire. 
 ### Image
 
 ### Reflection
+This was pretty simple, when I was creating the spokes I had a little trouble because it wouldn't select the correct thing when I tried to cut. But I redid the drawing and it worked. 
 
 ---
 
@@ -82,9 +75,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## AxleCollarBearings
 
 ### Description
-
-### Evidence
+This is the ale collar and bearings that go on the wheel and connect everything. 
 
 ### Image
 
 ### Reflection
+This was really cool to see that you could make one part on another and use the same geometry on the two parts. 
