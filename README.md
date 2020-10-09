@@ -8,7 +8,7 @@ The first assignment is to create the caster base. This is the piece everything 
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/base.png" width="400">
 
 ### Reflection
 
@@ -25,6 +25,8 @@ The next piece was the mount that attaches to the base.
 
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/mount.png" width="400">
+
 ### Reflection
 This piece was simple to make. I like how Onshape makes things very practical and save all our work. 
 
@@ -39,7 +41,10 @@ This is the piece that connects to the mount and holds the wheel.
 
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/fork.png" width="400">
+
 ### Reflection
+
 Making this in Onshape was pretty easy. The mirror was very simple and it always knows what you want to do which is helpful. 
 
 ---
@@ -53,6 +58,8 @@ This was the tire that goes around the wheel.
 
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/tire.png" width="400">
+
 ### Reflection
 
 The revolve was cool to figure out, pretty simple. 
@@ -63,10 +70,15 @@ The revolve was cool to figure out, pretty simple.
 ## Wheel
 
 ### Description
+
 This piece went in the tire. 
+
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/wheelandbearing.png" width="400">
+
 ### Reflection
+
 This was pretty simple, when I was creating the spokes I had a little trouble because it wouldn't select the correct thing when I tried to cut. But I redid the drawing and it worked. 
 
 ---
@@ -75,9 +87,13 @@ This was pretty simple, when I was creating the spokes I had a little trouble be
 ## AxleCollarBearings
 
 ### Description
+
 This is the ale collar and bearings that go on the wheel and connect everything. 
 
 ### Image
 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/axleandcollar.png" width="400">
+
 ### Reflection
+
 This was really cool to see that you could make one part on another and use the same geometry on the two parts. 
