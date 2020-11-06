@@ -92,3 +92,5 @@ Putting this together was pretty easy especially with the mate connectors.
 For this assingment we were suppposed to replicate a design with out groups. I made the inner cylinder piece of this which was pretty simple. Once we were able to communicate with eachother it came together well. 
 
 ### Images 
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/innercylinder.png" width="400">
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/groupfinal.png" width="400">
