@@ -101,6 +101,6 @@ For this assingment we were suppposed to replicate a design with out groups. I m
 For this assignment we were supposed to make a picture frame using dowel pins with different configurations. 
 
 ### Images 
-
-### Reflection
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/pictureframe.png" width="400">
+### Reflectionl
 I enjoyed this assingment and learning how to do configurations. They make everything a lot easier and the way Onshape does it is relatively simple. Putting the whole thing together was also pretty simple with the mates. 
