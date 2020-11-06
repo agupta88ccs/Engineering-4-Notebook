@@ -85,3 +85,10 @@ This was really cool to see that you could make one part on another and use the 
 ### Reflection
 
 Putting this together was pretty easy especially with the mate connectors. 
+
+## Onshape Collaboration Challenge 
+
+### Description
+For this assingment we were suppposed to replicate a design with out groups. I made the inner cylinder piece of this which was pretty simple. Once we were able to communicate with eachother it came together well. 
+
+### Images 
