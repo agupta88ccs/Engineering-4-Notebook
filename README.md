@@ -92,8 +92,8 @@ Putting this together was pretty easy especially with the mate connectors.
 For this assingment we were suppposed to replicate a design with out groups. I made the inner cylinder piece of this which was pretty simple. Once we were able to communicate with eachother it came together well. 
 
 ### Images 
-<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/innercylinder.png" width="400">
-<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/groupfinal.png" width="400">
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/InnerCylinder.png" width="400">
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/GroupFinal.png" width="400">
 
 ## Dorothy's Dowel Pins
 
@@ -101,6 +101,9 @@ For this assingment we were suppposed to replicate a design with out groups. I m
 For this assignment we were supposed to make a picture frame using dowel pins with different configurations. 
 
 ### Images 
-<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/pictureframe.png" width="400">
-### Reflectionl
+
+<img src="https://github.com/agupta88ccs/Engineering-4-Notebook/blob/master/PictureFrame.png" width="400">
+
+### Reflection
+
 I enjoyed this assingment and learning how to do configurations. They make everything a lot easier and the way Onshape does it is relatively simple. Putting the whole thing together was also pretty simple with the mates. 
